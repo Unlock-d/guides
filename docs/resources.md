@@ -2,6 +2,10 @@
 
 ## Unit Testing
 
+- [clock](https://pub.dev/packages/clock)
+This package provides a Clock class which encapsulates the notion of the "current time" and provides easy access to points relative to the current time.
+Different Clocks can have a different notion of the current time, and the default top-level clock's notion can be swapped out to reliably test timing-dependent code.
+
 - [fake_async](https://pub.dev/packages/fake_async)
 This package provides a FakeAsync class, which makes it easy to deterministically test code that uses asynchronous features like Futures, Streams, Timers, and microtasks.
 It creates an environment in which the user can explicitly control Dart's notion of the "current time".
