@@ -1,5 +1,9 @@
 # Tools
 
+## Screen mirroring
+
+- For Android [scrcpy](https://github.com/Genymobile/scrcpy)
+
 ## IntelliJ plugins
 
 - [bloc](https://plugins.jetbrains.com/plugin/12129-bloc)
