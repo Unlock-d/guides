@@ -1,7 +1,8 @@
 # Tools
 
-## Screen mirroring
+## Miscellaneous
 
+- Flutter Version Management [fvm](https://fvm.app/)
 - For Android [scrcpy](https://github.com/Genymobile/scrcpy)
 
 ## IntelliJ plugins
