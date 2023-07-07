@@ -1,5 +1,9 @@
 # Useful Packages
 
+## State management
+
+- The [Flutter docs](https://docs.flutter.dev/data-and-backend/state-mgmt/options) contains an extensive list of possible packages.
+
 ## Unit Testing
 
 - [clock](https://pub.dev/packages/clock)
